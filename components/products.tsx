@@ -101,13 +101,7 @@ export default function ProductsPage() {
         </div>
       </section>
 
-      {/* Footer */}
-      <footer className="bg-gray-900 text-white py-12 text-center">
-        <p>
-          © {new Date().getFullYear()} Avadhutha Sri Rami Reddy Thata Samsthan.
-          All rights reserved.
-        </p>
-      </footer>
+      
 
       {/* Tailwind Animations */}
       <style jsx>{`
